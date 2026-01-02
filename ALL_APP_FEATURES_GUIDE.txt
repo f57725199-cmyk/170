@@ -1,0 +1,114 @@
+
+================================================================================
+          IDEAL INSPIRATION CLASSES (IIC) - APP FEATURES GUIDE (A to Z)
+================================================================================
+
+This document contains a comprehensive list of all features in the IIC App, 
+explaining how each feature works for Students and Admins.
+
+--------------------------------------------------------------------------------
+1. DASHBOARD & NAVIGATION
+--------------------------------------------------------------------------------
+1.  **Hero Slider (Featured)**: 
+    - How it works: A dynamic carousel at the top of the Home tab showing 3 key highlights (e.g., Ultra Subscription, Exam Practice, Live Support). Auto-scrolls every 4 seconds.
+2.  **App Features Grid**: 
+    - How it works: A horizontal scrollable list of quick access buttons (Videos, PDFs, Tests, Premium, Rank List, Chat, Spin Win, Profile, Report).
+3.  **More Services**: 
+    - How it works: A grid menu for secondary tools like Inbox, History, Redeem, Support, and External Apps.
+4.  **Floating Dock**: 
+    - How it works: A handy navigation bar that appears at the bottom of the screen (Home, Season, Courses, Store, Profile).
+5.  **Notice Board**: 
+    - How it works: A scrolling announcement bar (Marquee) at the top for urgent updates from Admin.
+6.  **Notification Bar**: 
+    - How it works: A visual banner on the Home tab displaying pinned notices.
+
+--------------------------------------------------------------------------------
+2. LEARNING TOOLS (COURSES)
+--------------------------------------------------------------------------------
+7.  **Smart Video Lectures**: 
+    - How it works: Organized by Subject -> Chapter -> Topic. Supports YouTube playlists and direct video links. Premium videos require subscription or credits.
+8.  **PDF Notes Library**: 
+    - How it works: Read notes directly in the app. Admins can watermark PDFs. Supports Free (open to all) and Premium (locked) notes.
+9.  **MCQ Practice Zone**: 
+    - How it works: Topic-wise multiple-choice questions. Instant feedback (Green for correct, Red for wrong).
+10. **Weekly Tests**: 
+    - How it works: Scheduled mock exams. Simulates real exam environment with a timer. Results generate a detailed OMR Marksheet.
+11. **Season Mode (Syllabus)**: 
+    - How it works: A unique timeline view of the syllabus. Topics are listed by date/week. Clicking a topic automatically finds relevant Videos/PDFs/MCQs using smart matching.
+12. **Content Search (Request)**: 
+    - How it works: If a student can't find a topic, they can use the "Request Content" form to ask Admin to add it.
+
+--------------------------------------------------------------------------------
+3. EXAM & ANALYTICS
+--------------------------------------------------------------------------------
+13. **OMR Marksheet**: 
+    - How it works: After a Weekly Test, a professional result card is generated. It shows a visual grid of bubbles (A,B,C,D) colored Green (Correct) or Red (Wrong), along with Score, Class, and Rank.
+14. **Performance History**: 
+    - How it works: Stores every test attempt. Students can revisit past scores and see improvement over time.
+15. **Visual Reports**: 
+    - How it works: Graphs and charts in the Analytics tab showing study time vs. test scores.
+
+--------------------------------------------------------------------------------
+4. GAMIFICATION & REWARDS
+--------------------------------------------------------------------------------
+16. **Credit System (Coins)**: 
+    - How it works: The app's virtual currency. Earn credits by studying (timer based), logging in daily, or spinning the wheel. Use credits to unlock Premium Notes/Videos if you don't have a subscription.
+17. **Spin Wheel**: 
+    - How it works: A daily game where students spin a wheel to win random credit amounts (0, 1, 2, 5, etc.).
+18. **Daily Streak**: 
+    - How it works: Tracks how many consecutive days a student has studied. Encourages consistency.
+19. **Study Timer**: 
+    - How it works: Automatically runs when the app is open. Tracks "Daily Study Seconds". Reaching targets (e.g., 1 hour) unlocks rewards.
+20. **Live Leaderboard**: 
+    - How it works: A real-time ranking list of all students based on their Study Credits. Shows Top 3 with special badges (Gold, Silver, Bronze).
+21. **Badges & Tiers**: 
+    - How it works: Visual upgrades based on Subscription (Basic, Ultra, Lifetime). "Ultra" users get a glowing profile effect and "Crown" icon.
+22. **First Day Bonus**: 
+    - How it works: New users who study for 1 hour within their first 24 hours get a free 1-hour Ultra Subscription automatically.
+
+--------------------------------------------------------------------------------
+5. ADMIN & COMMUNICATION
+--------------------------------------------------------------------------------
+23. **Inbox (Admin Messages)**: 
+    - How it works: A private message center where Admins can send texts, "Gifts" (Credits), or "Rewards" (Subscriptions) to specific students. Students can "Claim" these gifts directly from the message.
+24. **Universal Chat**: 
+    - How it works: A global chat room for students to discuss topics.
+25. **Admin Dashboard**: 
+    - How it works: A powerful control panel for Admins to manage Users, Content (Add Videos/PDFs), Settings, and view Activity Logs.
+26. **Impersonation Mode**: 
+    - How it works: Admins can "Log in as" any student to see exactly what they see and debug issues.
+27. **Watermarking**: 
+    - How it works: Admins can set a custom watermark text that appears on PDFs to prevent sharing.
+28. **External Apps**: 
+    - How it works: Admins can link other web tools inside the app. Access can be locked or require credits.
+
+--------------------------------------------------------------------------------
+6. SUBSCRIPTION & STORE
+--------------------------------------------------------------------------------
+29. **Subscription Plans**: 
+    - How it works: Tiers include Weekly, Monthly, Yearly, Lifetime. 
+      - Basic: Unlocks Notes & MCQs.
+      - Ultra: Unlocks Everything (Videos + PDFs).
+30. **Store**: 
+    - How it works: Page to buy Credits or Subscribe. 
+31. **Discount Logic**: 
+    - How it works: Admins can set discount reasons (e.g., "Diwali Offer") which appear on the payment page.
+32. **Profile Glow**: 
+    - How it works: Buying a subscription changes the student's profile look. "Ultra" users have an animated background and glowing border.
+
+--------------------------------------------------------------------------------
+7. SYSTEM & SECURITY
+--------------------------------------------------------------------------------
+33. **Device Lock**: 
+    - How it works: Prevents multiple logins. (Basic implementation via Session/ID).
+34. **Startup Ad**: 
+    - How it works: A customizable popup that appears when the app opens, promoting new courses or offers.
+35. **Offline Mode Detection**: 
+    - How it works: If internet is lost, a "No Internet" screen appears, blocking access to prevent data errors.
+36. **Maintenance Mode**: 
+    - How it works: Admin can lock the entire app for everyone (except Admin) during updates.
+
+--------------------------------------------------------------------------------
+TOTAL FEATURES: 36+ Major Modules
+(Plus hundreds of micro-interactions like animations, validation, and error handling)
+================================================================================

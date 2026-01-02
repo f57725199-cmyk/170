@@ -1,0 +1,55 @@
+
+IIC App Features List
+=====================
+
+1. **Smart Video Lectures**: Topic-wise organized video classes.
+2. **PDF Notes Library**: High-quality notes with Free & Premium tiers.
+3. **MCQ Practice Zone**: Extensive question bank with instant analysis.
+4. **Weekly Tests**: Scheduled tests with timers and ranking.
+5. **Live Leaderboard**: Real-time ranking based on study activity.
+6. **Engagement Rewards**: Earn credits/subscriptions by studying.
+7. **Universal Chat**: Global student community chat.
+8. **Private Admin Support**: Direct line to teachers/admin.
+9. **Spin Wheel Game**: Daily chance to win credits.
+10. **Credit System**: Virtual currency for unlocking premium content.
+11. **Subscription Plans**: Weekly, Monthly, Yearly, Lifetime tiers.
+12. **Store**: Buy credits or subscriptions.
+13. **Profile Customization**: Edit details, view stats.
+14. **Study Timer**: Tracks daily learning hours automatically.
+15. **Streak System**: Daily login streak tracking.
+16. **User Inbox**: Admin notifications and messages.
+17. **Admin Dashboard**: Full control over users, content, and settings.
+18. **Content Manager**: Add/Edit Videos, PDFs, MCQs easily.
+19. **Bulk Upload**: Import questions from Excel/Google Sheets.
+20. **Security System**: Login protection, device locks.
+21. **Performance History**: Track past test scores.
+22. **Dark/Light Mode**: (Supported via system theme).
+23. **Responsive Design**: Works on Mobile, Tablet, Desktop.
+24. **PDF Watermarking**: Admin can protect PDFs with custom watermark.
+25. **Auto-Sync**: Content updates instantly without app update.
+26. **Offline Capabilities**: (Basic caching).
+27. **Guest Access**: Limited preview for new users.
+28. **Passwordless Login**: Admin approved fast access.
+29. **Custom Subjects**: Admin can add new subjects dynamically.
+30. **Gift Codes**: Generate redeemable codes for marketing.
+31. **Featured Shortcuts**: Quick access to hot topics on home.
+32. **Notice Board**: Scrolling announcements.
+33. **Startup Ad**: Customizable popup promotion.
+34. **External Apps**: Integrate other tools/links.
+35. **Activity Log**: Admin tracks key system events.
+36. **AI Question Generator**: Create MCQs using Gemini AI.
+37. **Payment Gateway Integration**: UPI/WhatsApp payment flow.
+38. **Class Management**: Support for Classes 6-12 + Competition.
+39. **Stream Support**: Science, Commerce, Arts streams.
+40. **Board Support**: CBSE, BSEB, etc.
+41. **Multi-Language Support**: (Content agnostic).
+42. **Fast Search**: Find users or content quickly.
+43. **Recycle Bin**: Restore deleted content.
+44. **Data Backup**: Export/Import system data.
+45. **Deployment Tools**: One-click source download for updates.
+46. **Role Management**: Admin, Student, Moderator roles.
+47. **Ban System**: Restrict chat or game for abusive users.
+48. **Impersonation Mode**: Admin can view app as any student.
+49. **Daily Goals**: Customizable study targets.
+50. **Visual Analytics**: Charts and progress bars (in History).
+... and many more micro-interactions!
